@@ -8,7 +8,7 @@ import os
 
 ENTRY = (
     "You thought Uncle Joe threw your broken kite in the trash because he was "
-    "angry, but he kept its red tail in his toolbox for eleven years, until "
+    "angry, but he saved its red tail in his toolbox for eleven years, until "
     "you came home carrying a son of your own."
 )
 
